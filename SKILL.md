@@ -106,7 +106,9 @@ Replace placeholders with facts. Remove optional fields that do not apply; use
 # Handoff: <topic>
 
 **Prepared:** <date and timezone> | **From:** <agent or role>
+
 **Status:** <prepared / sent / acknowledged; task still incomplete>
+
 **Entry location:** <file or document location>
 
 ## Objective and remaining acceptance

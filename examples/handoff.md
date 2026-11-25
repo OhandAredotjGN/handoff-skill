@@ -3,7 +3,9 @@
 This example is fictional. Paths, task IDs, and source identifiers are illustrative.
 
 **Prepared:** 2026-01-15 UTC | **From:** implementation agent
+
 **Status:** prepared; task still incomplete
+
 **Entry location:** `docs/handoffs/settings-popover.md`
 
 ## Objective and remaining acceptance
